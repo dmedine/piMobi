@@ -1,0 +1,2 @@
+configure pi for i2c -- adafruit tutorial
+apt-get i2c-tools
